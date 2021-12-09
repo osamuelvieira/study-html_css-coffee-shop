@@ -267,7 +267,7 @@ footer a{
     }
 }
 
-@media (min-width: 426) and (max-width: 768px){
+@media (min-width: 426px) and (max-width: 768px){
     .container{
         padding-left: 20px;
         padding-right: 20px;
@@ -287,5 +287,5 @@ footer a{
 }
 
 @media (max-width: 425px){
-    
+
 }
