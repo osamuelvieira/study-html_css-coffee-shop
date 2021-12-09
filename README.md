@@ -1,4 +1,4 @@
-# HTML and CSS sudy using grid and flex
+# HTML and CSS study using grid and flex
 
 HTML and CSS grid study to build a fully responsive landing page for desktop, mobile and tablet.[^note]
 
